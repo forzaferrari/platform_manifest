@@ -441,4 +441,4 @@
   <project path="vendor/du" name="vendor_du" remote="du" revision="du44" />
   <project path="vendor/htc" name="proprietary_vendor_htc" remote="du" revision="du44" />
   <project path="manifest" name="platform_manifest" remote="du" revision="du44" />
-</manifest><?xml version="1.0" encoding="UTF-8"?>
+</manifest>
