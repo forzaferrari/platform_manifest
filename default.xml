@@ -427,7 +427,7 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="du" revision="du44" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="vendor_tmobile_libs_com.tmobile.themes" remote="du" revision="du44" />
   <project path="vendor/tmobile/providers/ThemeManager" name="vendor_tmobile_providers_ThemeManager" remote="du" revision="du44" />
-  <project path="manifest" name="platform_manifest" remote="du" revision="du44" />
+  <project path="manifest" name="platform_manifest" remote="forzaferrari" revision="du44" />
   <project path="kernel/htc/ace" name="Mustaavalkosta/htc7x30-3.0" remote="github" revision="cm-11.0" />
   <project path="device/htc/ace" name="Mustaavalkosta/android_device_htc_ace" remote="github" revision="cm-11.0" />
   <project path="device/htc/msm7x30-common" name="Mustaavalkosta/android_device_htc_msm7x30-common" remote="github" revision="cm-11.0" />
